@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/POSsemkaServer.dir/main.c.o CMakeFiles/POSsemkaServer.dir/Array.c.o CMakeFiles/POSsemkaServer.dir/Vlakno.c.o CMakeFiles/POSsemkaServer.dir/Struct.c.o -o POSsemkaServer  -lpthread 

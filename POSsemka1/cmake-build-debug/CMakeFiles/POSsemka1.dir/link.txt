@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/POSsemka1.dir/main.c.o -o POSsemka1  -lpthread 
