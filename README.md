@@ -1,0 +1,1 @@
+A simple chat application written in C that allows communication between multiple clients over TCP sockets. The project demonstrates basic work with network sockets, connection management, and real-time messaging.
